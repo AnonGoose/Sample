@@ -1,2 +1,2 @@
-# Sample
-Sample Repository
+# My Sample Repository
+Sample Repository!!!
